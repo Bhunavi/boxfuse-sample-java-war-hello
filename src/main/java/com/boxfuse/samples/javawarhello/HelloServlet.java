@@ -1,4 +1,4 @@
-package com.boxfuse.samples.javawarhello;
+//package com.boxfuse.samples.javawarhello;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
